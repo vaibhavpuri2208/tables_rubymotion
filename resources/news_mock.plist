@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>title</key>
+		<string>RubyMotion 1.0 released</string>
+		<key>brief</key>
+		<string>HipByte has released the new version of RubyMotion</string>
+		<key>text</key>
+		<string>Unlock the power of Ruby for iOS
+RubyMotion is a revolutionary toolchain for iOS. 
+It lets you quickly develop and test native iOS applications for iPhone or iPad, all using the awesome Ruby language you know and love</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>The RubyMotion Way</string>
+		<key>brief</key>
+		<string>RubyMotion is a revolutionary toolchain</string>
+		<key>text</key>
+		<string>I love RubyMotion. And the way things are looking now, I'll never have to write Apple-platform software entirely in Objective-C again.
+
+Don't get me wrong, I think Objective-C is a great language. I've enjoyed using it nearly every day for the past four years and it's getting better all the time.
+
+But I find working in Ruby to be just plain fun. If you've tried projects in Ruby and just didn't like it, RubyMotion probably won't change your mind. But if you've ever wanted to make iOS or Mac apps but didn't want to get over the hump that is Objective-C, maybe this will get you going.</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Make iOS Apps With Ruby</string>
+		<key>brief</key>
+		<string>Everyone is trying to craft the next beautiful iOS app</string>
+		<key>text</key>
+		<string>Everyone is trying to craft the next beautiful iOS app, but building on Apple\’s platform has traditionally required experience in a niche programming language, Objective-C. However, with the release of RubyMotion, anyone can make a completely native iOS app using the power of Ruby</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>5 Awesome Things About RubyMotion</string>
+		<key>brief</key>
+		<string>Last week HipByte released RubyMotion</string>
+		<key>text</key>
+		<string>Last week HipByte released RubyMotion and although I was originally skeptical, I’m now fully on board. I wouldn’t consider myself an Objective-C developer over, lets say, a Ruby developer or C# developer. I’m simply a developer that likes to learn. When a client brought in an idea that needed an iOS app, I wrote it in Objective-C with Xcode like a good boy. The size of the app made it perfect to rewrite in RubyMotion which gave me a chance to compare and contrast.</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Test Drive the RubyMotion Console</string>
+		<key>brief</key>
+		<string>RubyMotion enables iOS development using the Ruby language</string>
+		<key>text</key>
+		<string>RubyMotion is a new development toolchain from HipBytes that enables iOS development using the Ruby language. One killer feature of RubyMotion is the interactive console (demo'ed above). See the RubyMotion site for more info.</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>RubyMine: RubyMotion is on board</string>
+		<key>brief</key>
+		<string>We’ve opened the Early Access Program for the next RubyMine version</string>
+		<key>text</key>
+		<string>We have good news for those who’re looking forward to full support for RubyMotion. Though we’re still working on testing and debugging features, we already have a few things to show you. Yes, literally: we’ve prepared a demo for you to watch.</string>
+	</dict>
+</array>
+</plist>
